@@ -1,0 +1,9 @@
+#BlueJ class context
+#Mon Oct 05 20:48:31 CLST 2026
+comment0.target=JuegoRallyX
+comment1.target=JuegoRallyX()
+comment2.target=boolean guardarPartida()
+comment3.target=boolean cargarPartida()
+comment4.target=void iniciarPartida()
+comment5.target=void pausarOJuegoTerminado()
+numComments=6

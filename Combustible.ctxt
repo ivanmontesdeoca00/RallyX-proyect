@@ -1,0 +1,13 @@
+#BlueJ class context
+#Wed Sep 30 09:04:18 CLST 2026
+comment0.target=Combustible
+comment1.params=capacidadMaxima
+comment1.target=Combustible(int)
+comment2.params=cantidad
+comment2.target=void consumir(int)
+comment3.params=cantidad
+comment3.target=void recargar(int)
+comment4.target=boolean estaVacio()
+comment5.target=int getActual()
+comment6.target=int getCapacidadMaxima()
+numComments=7

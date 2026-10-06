@@ -1,0 +1,13 @@
+#BlueJ class context
+#Mon Oct 05 20:40:30 CLST 2026
+comment0.target=Laberinto
+comment1.params=ancho alto
+comment1.target=Laberinto(int, int)
+comment2.target=void inicializarCaminos()
+comment3.params=p
+comment3.target=boolean permitirMovimiento(Posicion)
+comment4.target=void calcularRuta()
+comment5.target=java.util.List getCaminos()
+comment6.target=int getAncho()
+comment7.target=int getAlto()
+numComments=8

@@ -1,0 +1,14 @@
+#BlueJ class context
+#Mon Oct 05 20:45:00 CLST 2026
+comment0.target=EnemigoEspecial
+comment1.params=posicion velocidad agresividad objetivo
+comment1.target=EnemigoEspecial(Posicion, int, int, Jugador)
+comment2.target=void ejecutarCicloIA()
+comment3.target=void usarHabilidad()
+comment4.target=void bloquearRuta()
+comment5.params=jugador
+comment5.target=void perseguir(Jugador)
+comment6.target=void colisionarConJugador()
+comment7.target=void aumentarAgresividad()
+comment8.target=int getApareceDesde()
+numComments=9

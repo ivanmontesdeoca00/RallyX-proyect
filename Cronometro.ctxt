@@ -1,0 +1,14 @@
+#BlueJ class context
+#Mon Oct 05 20:36:08 CLST 2026
+comment0.target=Cronometro
+comment1.params=tiempoInicialSegundos
+comment1.target=Cronometro(int)
+comment2.target=void iniciar()
+comment3.target=void detener()
+comment4.target=void descontarTiempo()
+comment5.target=void run()
+comment6.target=int getTiempoRestante()
+comment7.params=tiempoRestante
+comment7.target=void setTiempoRestante(int)
+comment8.target=boolean isActivo()
+numComments=9

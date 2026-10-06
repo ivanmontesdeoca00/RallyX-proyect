@@ -1,0 +1,15 @@
+#BlueJ class context
+#Mon Oct 05 20:45:00 CLST 2026
+comment0.target=CocheRojo
+comment1.params=posicion velocidad agresividad objetivo
+comment1.target=CocheRojo(Posicion, int, int, Jugador)
+comment2.target=void ejecutarCicloIA()
+comment3.params=jugador
+comment3.target=void perseguir(Jugador)
+comment4.target=void embestir()
+comment5.target=void colisionarConJugador()
+comment6.target=void aumentarAgresividad()
+comment7.target=Estrategia getEstrategia()
+comment8.params=estrategia
+comment8.target=void setEstrategia(Estrategia)
+numComments=9

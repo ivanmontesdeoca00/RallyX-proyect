@@ -1,0 +1,16 @@
+#BlueJ class context
+#Mon Oct 05 20:45:00 CLST 2026
+comment0.target=NaveEnemiga
+comment1.params=posicion velocidad agresividad objetivo
+comment1.target=NaveEnemiga(Posicion, int, int, Jugador)
+comment2.target=void ejecutarCicloIA()
+comment3.target=void patrullar()
+comment4.target=void bloquearRuta()
+comment5.params=jugador
+comment5.target=void perseguir(Jugador)
+comment6.target=void colisionarConJugador()
+comment7.target=void aumentarAgresividad()
+comment8.target=java.lang.String getPatronMovimiento()
+comment9.params=patronMovimiento
+comment9.target=void setPatronMovimiento(java.lang.String)
+numComments=10

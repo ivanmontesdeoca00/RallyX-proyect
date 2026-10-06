@@ -1,0 +1,11 @@
+#BlueJ class context
+#Mon Oct 05 20:45:00 CLST 2026
+comment0.target=Radar
+comment1.params=rango
+comment1.target=Radar(int)
+comment2.params=entidadesEnMapa
+comment2.target=void actualizar(java.util.List)
+comment3.target=void mostrarBanderas()
+comment4.target=void mostrarEnemigos()
+comment5.target=java.util.List getObjetosDetectados()
+numComments=6

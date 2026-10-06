@@ -1,0 +1,10 @@
+#BlueJ class context
+#Mon Oct 05 20:40:30 CLST 2026
+comment0.target=Camino
+comment1.params=inicio fin
+comment1.target=Camino(Posicion, Posicion)
+comment2.params=p
+comment2.target=boolean contiene(Posicion)
+comment3.target=Posicion getInicio()
+comment4.target=Posicion getFin()
+numComments=5

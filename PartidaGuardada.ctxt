@@ -1,0 +1,11 @@
+#BlueJ class context
+#Mon Oct 05 20:35:12 CLST 2026
+comment0.target=PartidaGuardada
+comment1.params=nivelActual vidasJugador combustibleActual puntaje tiempoRestante
+comment1.target=PartidaGuardada(int, int, int, int, int)
+comment2.target=int getNivelActual()
+comment3.target=int getVidasJugador()
+comment4.target=int getCombustibleActual()
+comment5.target=int getPuntaje()
+comment6.target=int getTiempoRestante()
+numComments=7

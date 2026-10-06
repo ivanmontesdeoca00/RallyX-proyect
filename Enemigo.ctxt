@@ -1,0 +1,27 @@
+#BlueJ class context
+#Mon Oct 05 20:44:57 CLST 2026
+comment0.target=Enemigo
+comment1.params=posicion velocidad agresividad
+comment1.target=Enemigo(Posicion, int, int)
+comment10.target=boolean isActivo()
+comment11.params=activo
+comment11.target=void setActivo(boolean)
+comment12.target=boolean isConfundido()
+comment13.params=confundido
+comment13.target=void setConfundido(boolean)
+comment14.target=int getVelocidad()
+comment15.params=velocidad
+comment15.target=void setVelocidad(int)
+comment16.target=int getAgresividad()
+comment17.params=agresividad
+comment17.target=void setAgresividad(int)
+comment2.target=java.lang.String getTipoEntidad()
+comment3.target=void iniciarComportamiento()
+comment4.target=void detenerComportamiento()
+comment5.target=void run()
+comment6.target=void ejecutarCicloIA()
+comment7.params=jugador
+comment7.target=void perseguir(Jugador)
+comment8.target=void colisionarConJugador()
+comment9.target=void aumentarAgresividad()
+numComments=18

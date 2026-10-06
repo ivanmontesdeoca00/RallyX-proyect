@@ -1,0 +1,8 @@
+#BlueJ class context
+#Mon Oct 05 20:35:27 CLST 2026
+comment0.target=IPersistenciaDAO
+comment1.params=partida rutaArchivo
+comment1.target=boolean guardarPartida(PartidaGuardada, java.lang.String)
+comment2.params=rutaArchivo
+comment2.target=PartidaGuardada cargarPartida(java.lang.String)
+numComments=3

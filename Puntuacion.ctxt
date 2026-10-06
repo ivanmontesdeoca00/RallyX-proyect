@@ -1,0 +1,12 @@
+#BlueJ class context
+#Wed Sep 30 09:06:51 CLST 2026
+comment0.target=Puntuacion
+comment1.target=Puntuacion()
+comment2.params=esEspecial
+comment2.target=void sumarBandera(boolean)
+comment3.target=void sumarEnemigo()
+comment4.params=bonusCombustible
+comment4.target=void registrarPuntuacionFinal(int)
+comment5.target=int getPuntos()
+comment6.target=int getPuntuacionFinal()
+numComments=7

@@ -1,0 +1,15 @@
+#BlueJ class context
+#Mon Oct 05 20:44:57 CLST 2026
+comment0.target=Jugador
+comment1.params=posicion
+comment1.target=Jugador(Posicion)
+comment2.params=direccion
+comment2.target=void mover(Direccion)
+comment3.params=bandera
+comment3.target=void recogerBandera(BanderaGasolina)
+comment4.target=Smokescreen usarSmokescreen()
+comment5.target=boolean perderVida()
+comment6.target=int getVidas()
+comment7.target=Combustible getCombustible()
+comment8.target=java.lang.String getTipoEntidad()
+numComments=9

@@ -1,0 +1,17 @@
+#BlueJ class context
+#Mon Oct 05 20:44:57 CLST 2026
+comment0.target=Smokescreen
+comment1.params=duracion radio
+comment1.target=Smokescreen(int, int)
+comment2.params=pos
+comment2.target=void activar(Posicion)
+comment3.params=enemigos
+comment3.target=void confundir(java.util.List)
+comment4.target=int getDuracion()
+comment5.params=duracion
+comment5.target=void setDuracion(int)
+comment6.target=int getRadio()
+comment7.params=radio
+comment7.target=void setRadio(int)
+comment8.target=Posicion getPosicion()
+numComments=9

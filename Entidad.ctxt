@@ -1,0 +1,14 @@
+#BlueJ class context
+#Mon Oct 05 20:40:13 CLST 2026
+comment0.target=Entidad
+comment0.text=\r\n Superclase para todas las entidades presentes en el mapa detectables por el Radar.\r\n
+comment1.params=posicion
+comment1.target=Entidad(Posicion)
+comment2.target=Posicion getPosicion()
+comment3.params=posicion
+comment3.target=void setPosicion(Posicion)
+comment4.target=boolean isActivo()
+comment5.params=activo
+comment5.target=void setActivo(boolean)
+comment6.target=java.lang.String getTipoEntidad()
+numComments=7

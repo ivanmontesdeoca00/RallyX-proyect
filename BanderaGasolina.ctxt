@@ -1,0 +1,10 @@
+#BlueJ class context
+#Mon Oct 05 20:40:13 CLST 2026
+comment0.target=BanderaGasolina
+comment1.params=posicion esEspecial
+comment1.target=BanderaGasolina(Posicion, boolean)
+comment2.target=void recoger()
+comment3.target=boolean estaRecogida()
+comment4.target=boolean isEsEspecial()
+comment5.target=java.lang.String getTipoEntidad()
+numComments=6
